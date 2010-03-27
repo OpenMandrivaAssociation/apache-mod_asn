@@ -5,8 +5,8 @@
 
 Summary:	mod_asn looks up the AS and network prefix of IP address
 Name:		apache-%{mod_name}
-Version:	1.3
-Release: 	%mkrel 2
+Version:	1.4
+Release: 	%mkrel 1
 Group:		System/Servers
 License:	Apache License
 URL:		http://mirrorbrain.org/
