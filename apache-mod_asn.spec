@@ -5,7 +5,7 @@
 
 Summary:	mod_asn looks up the AS and network prefix of IP address
 Name:		apache-%{mod_name}
-Version:	1.4
+Version:	1.5
 Release: 	%mkrel 1
 Group:		System/Servers
 License:	Apache License
