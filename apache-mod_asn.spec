@@ -9,7 +9,7 @@ Version:	1.5
 Release: 	%mkrel 4
 Group:		System/Servers
 License:	Apache License
-URL:		http://mirrorbrain.org/
+URL:		https://mirrorbrain.org/
 Source0:	http://mirrorbrain.org/files/releases/%{mod_name}-%{version}.tar.gz
 Source1:	%{mod_conf}
 Requires(pre): rpm-helper
